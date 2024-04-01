@@ -1,0 +1,20 @@
+.menuicon{
+    background: rgb(217,28,89) !important;
+    background: linear-gradient(90deg, rgba(217,28,89,1) 0%, rgba(3,1,23,1) 38%) !important;
+
+    &:hover{
+        background: rgb(3,1,23);
+        background: linear-gradient(90deg, rgba(3,1,23,1) 0%, rgba(217,28,89,1) 100%);
+    }
+}
+
+.navcolor{
+    color: rgb(217,28,89);
+    color: linear-gradient(90deg, rgba(217,28,89,1) 0%, rgba(3,1,23,1) 38%);
+
+}
+
+.btnclr{
+    background: rgb(217,28,89) !important;
+    background: linear-gradient(90deg, rgba(217,28,89,1) 0%, rgba(3,1,23,1) 38%) !important;
+}
